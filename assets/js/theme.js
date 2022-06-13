@@ -96,3 +96,4 @@ jQuery(document).ready(function () {
 //scroll %
 //megamenu
 //JS libraries add to project like AOS https://michalsnik.github.io/aos/
+//typewrite
